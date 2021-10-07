@@ -2,3 +2,4 @@ let's edit and make a commit
 now lets see what happens after cloning repo using ssh url
 let's edit this today for checking if add and commit can be done 
 with the same command.
+let's add another line for updating local repo with the remote
